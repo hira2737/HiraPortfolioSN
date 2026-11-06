@@ -1,0 +1,145 @@
+
+{
+    "personalInformation": {
+        "name": "Hira Nandhani M",
+        "location": "Tamil Nadu, India",
+        "email": "hira270307@gmail.com",
+        "phone": "+91 8825420606",
+        "linkedin": "https://www.linkedin.com/in/hira2737/",
+        "github": "https://github.com/hira2737",
+        "portfolio": "https://hira2737.github.io/H27_portfolio/",
+        "careerObjective": "Motivated Computer Science student with strong foundations in full-stack web development and problem solving. Interested in building scalable web applications and contributing to impactful software projects."
+    },
+
+    "education": [
+        {
+            "degree": "B.Sc. Computer Science",
+            "institution": "M.O.P. Vaishnav College for Women (Autonomous), Chennai",
+            "duration": "2024-2027",
+            "cgpa": 9.3,
+            "status": "Pursuing"
+        },
+        {
+            "degree": "Higher Secondary Education (12th)",
+            "institution": "St. Ursula's Anglo Indian Higher Secondary School, Chennai",
+            "duration": "2023-2024",
+            "percentage": 91,
+            "status": "Completed"
+        }
+    ],
+
+    "internship": {
+        "role": "Full Stack Developer Intern",
+        "company": "The Bot Company",
+        "startDate": "2026-05-01",
+        "endDate": "2026-05-30",
+        "responsibilities": [
+            "Contributed to the development of CineBook.",
+            "Built and enhanced features using the MERN stack.",
+            "Worked on frontend and backend development modules.",
+            "Gained experience in full-stack development and team collaboration."
+        ]
+    },
+
+    "projects": [
+        {
+            "name": "CineBook",
+            "category": "Full Stack Development",
+            "description": "A movie ticket booking platform featuring interactive seat selection, group split payments, ticket resale functionality, movie browsing and user reviews.",
+            "technologies": [
+                "MongoDB",
+                "Express.js",
+                "React.js",
+                "Node.js"
+            ],
+            "url": "https://cb-2026-gamma.vercel.app/"
+        },
+        {
+            "name": "SustainHire",
+            "category": "Full Stack Development",
+            "description": "A platform connecting students with sustainability-focused internships.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "url": "https://sustainhiresoftware.netlify.app/"
+        }
+    ],
+
+    "skills": {
+        "programmingLanguages": [
+            "Python",
+            "C++",
+            "Java (Basic)"
+        ],
+        "webTechnologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Bootstrap",
+            "Node.js",
+            "Express.js"
+        ],
+        "databases": [
+            "MongoDB",
+            "MySQL"
+        ],
+        "tools": [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Netlify",
+            "Vercel",
+            "Render"
+        ],
+        "softSkills": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork"
+        ]
+    },
+
+    "certifications": [
+        {
+            "name": "Python for Data Science",
+            "provider": "NPTEL"
+        },
+        {
+            "name": "Programming in Java",
+            "provider": "NPTEL"
+        },
+        {
+            "name": "Programming, Data Structures and Algorithms using Python",
+            "provider": "NPTEL"
+        },
+        {
+            "name": "Generative AI",
+            "provider": "Google Cloud"
+        },
+        {
+            "name": "Digital Application Fundamentals",
+            "provider": "NASSCOM SSC"
+        },
+        {
+            "name": "Frontend Developer (React)",
+            "provider": "HackerRank"
+        }
+    ],
+
+    "languages": [
+        {
+            "name": "Tamil",
+            "proficiency": "Native Proficiency"
+        },
+        {
+            "name": "English",
+            "proficiency": "Professional Proficiency"
+        }
+    ]
+}

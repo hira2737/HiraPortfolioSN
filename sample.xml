@@ -1,0 +1,293 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portfolio>
+
+    <personalInformation>
+
+        <name>Hira Nandhani M</name>
+
+        <location>Tamil Nadu, India</location>
+
+        <email>hira270307@gmail.com</email>
+
+        <phone>+91 8825420606</phone>
+
+        <linkedin>https://www.linkedin.com/in/hira2737/</linkedin>
+
+        <github>https://github.com/hira2737</github>
+
+        <website>https://hira2737.github.io/H27_portfolio/</website>
+
+        <careerObjective>
+            Motivated Computer Science student with strong
+            foundations in full-stack web development and
+            problem solving. Interested in building scalable
+            web applications and contributing to impactful
+            software projects.
+        </careerObjective>
+
+    </personalInformation>
+
+
+    <education>
+
+        <degree>
+
+            <name>B.Sc. Computer Science</name>
+
+            <institution>
+                M.O.P. Vaishnav College for Women (Autonomous), Chennai
+            </institution>
+
+            <duration>2024-2027</duration>
+
+            <cgpa>9.3</cgpa>
+
+            <status>Pursuing</status>
+
+        </degree>
+
+
+        <degree>
+
+            <name>Higher Secondary Education (12th)</name>
+
+            <institution>
+                St. Ursula's Anglo Indian Higher Secondary School, Chennai
+            </institution>
+
+            <duration>2023-2024</duration>
+
+            <percentage>91</percentage>
+
+            <status>Completed</status>
+
+        </degree>
+
+    </education>
+
+
+    <internship>
+
+        <role>Full Stack Developer Intern</role>
+
+        <company>The Bot Company</company>
+
+        <startDate>2026-05-01</startDate>
+
+        <endDate>2026-05-30</endDate>
+
+        <responsibilities>
+
+            <responsibility>
+                Contributed to the development of CineBook.
+            </responsibility>
+
+            <responsibility>
+                Built and enhanced features using the MERN stack.
+            </responsibility>
+
+            <responsibility>
+                Worked on frontend and backend development modules.
+            </responsibility>
+
+            <responsibility>
+                Gained experience in full-stack development
+                and team collaboration.
+            </responsibility>
+
+        </responsibilities>
+
+    </internship>
+
+
+    <projects>
+
+        <project>
+
+            <name>CineBook</name>
+
+            <category>Full Stack Development</category>
+
+            <description>
+                A movie ticket booking platform featuring
+                interactive seat selection, group split payments,
+                ticket resale functionality, movie browsing
+                and user reviews.
+            </description>
+
+            <technologies>
+
+                <technology>MongoDB</technology>
+
+                <technology>Express.js</technology>
+
+                <technology>React.js</technology>
+
+                <technology>Node.js</technology>
+
+            </technologies>
+
+            <url>https://cb-2026-gamma.vercel.app/</url>
+
+        </project>
+
+
+        <project>
+
+            <name>SustainHire</name>
+
+            <category>Full Stack Development</category>
+
+            <description>
+                A platform connecting students with
+                sustainability-focused internships.
+            </description>
+
+            <technologies>
+
+                <technology>HTML</technology>
+
+                <technology>CSS</technology>
+
+                <technology>Bootstrap</technology>
+
+                <technology>JavaScript</technology>
+
+                <technology>Node.js</technology>
+
+                <technology>Express.js</technology>
+
+                <technology>MongoDB</technology>
+
+            </technologies>
+
+            <url>https://sustainhiresoftware.netlify.app/</url>
+
+        </project>
+
+    </projects>
+
+
+    <skills>
+
+        <programmingLanguages>
+
+            <skill>Python</skill>
+
+            <skill>C++</skill>
+
+            <skill>Java (Basic)</skill>
+
+        </programmingLanguages>
+
+
+        <webTechnologies>
+
+            <skill>HTML</skill>
+
+            <skill>CSS</skill>
+
+            <skill>JavaScript</skill>
+
+            <skill>React</skill>
+
+            <skill>Bootstrap</skill>
+
+            <skill>Node.js</skill>
+
+            <skill>Express.js</skill>
+
+        </webTechnologies>
+
+
+        <databases>
+
+            <database>MongoDB</database>
+
+            <database>MySQL</database>
+
+        </databases>
+
+
+        <tools>
+
+            <tool>Git</tool>
+
+            <tool>GitHub</tool>
+
+            <tool>VS Code</tool>
+
+            <tool>Netlify</tool>
+
+            <tool>Vercel</tool>
+
+            <tool>Render</tool>
+
+        </tools>
+
+
+        <softSkills>
+
+            <skill>Problem Solving</skill>
+
+            <skill>Communication</skill>
+
+            <skill>Teamwork</skill>
+
+        </softSkills>
+
+    </skills>
+
+
+    <certifications>
+
+        <certification>
+            <name>Python for Data Science</name>
+            <provider>NPTEL</provider>
+        </certification>
+
+        <certification>
+            <name>Programming in Java</name>
+            <provider>NPTEL</provider>
+        </certification>
+
+        <certification>
+            <name>Programming, Data Structures and Algorithms using Python</name>
+            <provider>NPTEL</provider>
+        </certification>
+
+        <certification>
+            <name>Generative AI</name>
+            <provider>Google Cloud</provider>
+        </certification>
+
+        <certification>
+            <name>Digital Application Fundamentals</name>
+            <provider>NASSCOM SSC</provider>
+        </certification>
+
+        <certification>
+            <name>Frontend Developer (React)</name>
+            <provider>HackerRank</provider>
+        </certification>
+
+    </certifications>
+
+
+    <languages>
+
+        <language>
+            <name>Tamil</name>
+            <proficiency>Native Proficiency</proficiency>
+        </language>
+
+        <language>
+            <name>English</name>
+            <proficiency>Professional Proficiency</proficiency>
+        </language>
+
+    </languages>
+
+</portfolio>
